@@ -1,0 +1,30 @@
+.modal {
+    position: absolute; 
+    top: 25%;
+    left: 0; 
+    right: 0; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 300px; 
+    background: white;
+    padding: 3rem;
+    border-radius: 3px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    box-shadow: 0 0 3px 3px rgb(0 0 0 / 5%);
+}
+
+.modal div{
+    margin-top: 1rem;
+    cursor: pointer;
+    padding: 0.5rem 1rem;
+    border-radius: 3px;
+
+}
+
+.modal div:hover{
+    background: #e2e2e2;
+
+}
+    

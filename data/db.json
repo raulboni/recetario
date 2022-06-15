@@ -1,0 +1,13 @@
+{
+  "recipes": [
+    {
+      "title": "Pizza",
+      "ingredients": [
+        "cosos"
+      ],
+      "method": "Amasar y hornear",
+      "cookingTime": "20 minutes",
+      "id": 1
+    }
+  ]
+}
